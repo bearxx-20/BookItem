@@ -1,0 +1,144 @@
+#userDisplay{
+    margin-left: 850px;
+}
+.userButton{
+    display: inline-block;
+    height: 23px;
+    width: 57px;
+    line-height: 23px;
+    padding: 0 18px;
+    background-color: whitesmoke;
+    color: gray;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 14px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-left: 3px;
+    border: 1px solid #C9C9C9;
+}
+.userButton:hover{
+    border-color:#7FF25F ;
+}
+a{
+    text-decoration: none;
+}
+#BookDisplayWord{
+    margin-right: -13px;
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+#BookDisplay{
+    margin-left: 530px;
+    margin-top: 52px;
+}
+table{
+    border-spacing:0 ;
+    border-collapse: collapse;
+    font: 14px Helvetica Neue, Helvetica, PingFang SC, 微软雅黑, Tahoma, Arial, sans-serif;
+    color: #666;
+}
+thead{
+    background-color: #ECECEC;
+    height: 34px;
+}
+tbody{
+    height: 34px;
+}
+tbody:hover{
+    background-color: #ECECEC;
+}
+#DisplayTable{
+    margin-left: 530px;
+}
+#operationButton{
+    margin-top: 11px;
+    margin-left: 520px;
+}
+#AddOrBack{
+    margin-left: 790px;
+    margin-top: 21px;
+}
+#checkButton{
+    height: 20px;
+    width: 20px;
+}
+.Operation{
+    display: inline-block;
+    height: 27px;
+    line-height: 23px;
+    padding: 0 8px;
+    background-color: white;
+    color: gray;
+    white-space: nowrap;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-left: 10px;
+    border: 1px solid #C9C9C9;
+}
+.Operation:hover{
+    border-color:#7FF25F ;
+}
+#back{
+    display: inline-block;
+    height: 35px;
+    line-height: 38px;
+    padding: 0 18px;
+    background-color: white;
+    color: gray;
+    white-space: nowrap;
+    text-align: center;
+    font-size: 14px;
+    cursor: pointer;
+    margin-left: 10px;
+    border-radius: 50px;
+    border: 1px solid #C9C9C9;
+}
+#Add{
+    display: inline-block;
+    height: 35px;
+    line-height: 38px;
+    padding: 0 18px;
+    background-color: white;
+    color: gray;
+    white-space: nowrap;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-left: 10px;
+    border: 1px solid #C9C9C9;
+}
+#Add:hover{
+    border-color:#7FF25F ;
+}
+#back:hover{
+    border-color:#7FF25F ;
+}
+#change{
+    border:1px solid #C9C9C9 ;
+    width: 20px;
+    height: 21px;
+    display: block;
+    float:left;
+}
+#change:hover{
+    border-color:#7FF25F ;
+}
+#imgTag{
+    display: flow-root;
+}
+#deleteTag{
+    border:1px solid #C9C9C9 ;
+    width: 20px;
+    height: 21px;
+    display: block;
+    float: right;
+    margin-right: 18px;
+}
+#deleteTag:hover{
+    border-color:#7FF25F ;
+}
+

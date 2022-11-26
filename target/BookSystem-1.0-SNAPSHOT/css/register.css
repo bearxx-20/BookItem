@@ -1,0 +1,119 @@
+body{
+    background: #eee !important;
+}
+.registerDiv{
+    margin-left: 15px;
+    margin-top: 100px;
+    max-width: 380px;
+    padding: 15px 35px 45px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+#registerSubmit{
+    display: inline-block;
+    height: 35px;
+    line-height: 38px;
+    padding: 0 18px;
+    background-color: #009688;
+    color: #fff;
+    white-space: nowrap;
+    text-align: center;
+    font-size: 14px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-top: 16px;
+    border: 1px solid #C9C9C9;
+    margin-left: 12px;
+}
+#userName{
+    width: 143px;
+    height: 23px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+#userPwdOne{
+    width: 143px;
+    height: 23px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+#userPwdTwo{
+    width: 143px;
+    height: 23px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+#userName:hover{
+    outline: 0;
+    border: 1px solid #4CC9F0;
+    box-shadow: 0px 0px 10px 0px #4CC9F0;
+    -moz-transition:border ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+    -webkit-transition:border ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+}
+#userPwdOne:hover{
+    outline: 0;
+    border: 1px solid #4CC9F0;
+    box-shadow: 0px 0px 10px 0px #4CC9F0;
+    -moz-transition:border ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+    -webkit-transition:border ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+}
+#userPwdTwo:hover{
+    outline: 0;
+    border: 1px solid #4CC9F0;
+    box-shadow: 0px 0px 10px 0px #4CC9F0;
+    -moz-transition:border ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+    -webkit-transition:border ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+}
+.laberValue{
+    width: 78px;
+    height: 24px;
+    border: solid 1px #f3f3f3;
+    background-color: #f3f3f3;
+    margin-right: 5px;
+    display: inline-block;
+    font-family:-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
+}
+.show{
+    margin-right: -13px;
+    margin-bottom: 45px;
+    font-size: 30px;
+    font-family: -apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
+}
+#RetureToHome{
+    display: inline-block;
+    height: 35px;
+    line-height: 38px;
+    padding: 0 18px;
+    background-color: whitesmoke;
+    color: gray;
+    white-space: nowrap;
+    text-align: center;
+    font-size: 14px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-left: 10px;
+    border-radius: 50px;
+    border: 1px solid #C9C9C9;
+}
+#RetureToHome:hover{
+    border-color:#7FF25F ;
+}
+a{
+    text-decoration: none;
+}
+#showMassage{
+    margin-right: 18px;
+    margin-bottom: -27px;
+    margin-top:0px;
+    font-size: 9px;
+    color: red;
+}
+#userShow{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 9px;
+    color: red;
+    margin-right: 27px;
+}

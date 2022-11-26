@@ -1,0 +1,156 @@
+#userDisplay{
+    margin-left: 850px;
+}
+.Addition{
+    margin-left: 530px;
+    margin-top: 52px;
+}
+#AdditionWord{
+    margin-right: -13px;
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+#AddBook{
+    display: inline-block;
+    height: 35px;
+    line-height: 38px;
+    padding: 0 18px;
+    background-color: #009688;
+    color: #fff;
+    white-space: nowrap;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 20px;
+    border: 1px solid #C9C9C9;
+}
+#resetButton{
+    display: inline-block;
+    height: 35px;
+    line-height: 38px;
+    padding: 0 18px;
+    background-color: whitesmoke;
+    color: gray;
+    white-space: nowrap;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-left: 10px;
+    border: 1px solid #C9C9C9;
+}
+.laberValue{
+    width: 61px;
+    height: 24px;
+    border: solid 1px #f3f3f3;
+    background-color: #f3f3f3;
+    display: inline-block;
+    font-family:-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
+}
+#BookName{
+    width: 143px;
+    height: 23px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+#writerName{
+    width: 143px;
+    height: 23px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+#publisher{
+    width: 143px;
+    height: 23px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+#price{
+    width: 143px;
+    height: 23px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+#number{
+    width: 143px;
+    height: 23px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+#number:hover{
+    outline: 0;
+    border: 1px solid #4CC9F0;
+    box-shadow: 0px 0px 10px 0px #4CC9F0;
+    -moz-transition:border ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+    -webkit-transition:border ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+}
+#BookName:hover{
+    outline: 0;
+    border: 1px solid #4CC9F0;
+    box-shadow: 0px 0px 10px 0px #4CC9F0;
+    -moz-transition:border ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+    -webkit-transition:border ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+}
+#writerName:hover{
+    outline: 0;
+    border: 1px solid #4CC9F0;
+    box-shadow: 0px 0px 10px 0px #4CC9F0;
+    -moz-transition:border ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+    -webkit-transition:border ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+}
+#publisher:hover{
+    outline: 0;
+    border: 1px solid #4CC9F0;
+    box-shadow: 0px 0px 10px 0px #4CC9F0;
+    -moz-transition:border ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+    -webkit-transition:border ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+}
+#price:hover{
+    outline: 0;
+    border: 1px solid #4CC9F0;
+    box-shadow: 0px 0px 10px 0px #4CC9F0;
+    -moz-transition:border ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+    -webkit-transition:border ease-in-out 0.15s,box-shadow ease-in-out 0.15s;
+}
+a{
+    text-decoration: none;
+}
+#RetureToHome{
+    display: inline-block;
+    height: 35px;
+    line-height: 38px;
+    padding: 0 18px;
+    background-color: whitesmoke;
+    color: gray;
+    white-space: nowrap;
+    text-align: center;
+    font-size: 14px;
+    cursor: pointer;
+    margin-left: 10px;
+    border-radius: 50px;
+    border: 1px solid #C9C9C9;
+}
+#RetureToHome:hover{
+    border-color:#7FF25F ;
+}
+.userButton{
+    display: inline-block;
+    height: 23px;
+    width: 57px;
+    line-height: 23px;
+    padding: 0 18px;
+    background-color: whitesmoke;
+    color: gray;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 14px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-left: 3px;
+    border: 1px solid #C9C9C9;
+}
+.userButton:hover{
+    border-color:#7FF25F ;
+}
